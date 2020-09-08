@@ -12,14 +12,13 @@ Foi elaborado um App em Kotlin com desenvolvimento Android, telas apresentadas a
 
 <img src="./screens/4.png" width="200">
 
-## Algumas informações:
+## Algumas Informações:
 
 - Tela de login livre, com detalhe de usuário não permitindo email e senha mais de 6 caracteres;
 - Banco de dados utilizando SQLite por ser bastante simples;
 - Para tela de Editar/Deletar, clicar na marcar presente no mapa, caso clique na marcar na qual você está localizado é informado.
--
 
-## Serviços a Solicitados:
+## Serviços Solicitados:
 
 - O usuário deverá realizar o login no app preenchendo os campos login e senha e pressionar o botão entrar;
 - Ao realizar o login será mostrado um mapa onde será exibido todos os pontos coletados;
