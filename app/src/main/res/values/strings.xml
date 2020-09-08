@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Engeselt Maps</string>
+    <!-- Strings relacionado ao login -->
+    <string name="prompt_email">Usuário</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="welcome">"Bem Vindo !"</string>
+    <string name="invalid_username">Não é um usuário válido!</string>
+    <string name="invalid_password">Senha deve possuir no mínimo 6 caracteres</string>
+    <string name="login_failed">"Login falhou!"</string>
+    <!-- Strings relacionado ao maps -->
+    <string name="title_activity_maps">Engeselt Maps - Coletados</string>
+
+    <!-- Strings relacionado ao coleta -->
+    <string name="title_activity_collect">Engeselt Maps - Coleta</string>
+    <string name="prompt_namePoint">Nome do Local</string>
+    <string name="prompt_latitudePoint">Latitude do Local</string>
+    <string name="prompt_longitudePoint">Longitude do Local</string>
+
+    <!-- Strings relacionado ao edição -->
+    <string name="title_activity_Update">Engeselt Maps - Editar/Deletar</string>
+
+</resources>
